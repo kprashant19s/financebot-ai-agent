@@ -2,6 +2,8 @@
 
 An AI-powered agent that takes plain English questions about a finance database, automatically generates SQL queries, executes them safely, and produces interactive visualizations — end to end, no manual SQL required.
 
+![FinanceBot Demo](screenshots/demo.png)
+
 ---
 
 ## What it does
