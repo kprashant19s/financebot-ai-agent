@@ -44,6 +44,7 @@ The agent:
 | ORM / Safety | SQLAlchemy + custom validator |
 | Visualization | Plotly |
 | Config | python-dotenv |
+| UI | Streamlit |
 
 ---
 
@@ -106,12 +107,17 @@ mysql -u root -p financebot < database/schema.sql
 mysql -u root -p financebot < database/seed_data.sql
 ```
 
-### 6. Run the agent
+### 6. Run the web interface
+```bash
+python3 -m streamlit run app.py
+```
+The app will open at `http://localhost:8501`
+
+### 7. Or run via terminal
 ```bash
 python3 main.py
 ```
-
----
+````
 
 ## Safety features
 
