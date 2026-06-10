@@ -1,0 +1,9 @@
+langchain
+langchain-anthropic
+anthropic
+sqlalchemy
+pymysql
+plotly
+pandas
+python-dotenv
+kaleido
