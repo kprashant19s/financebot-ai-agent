@@ -142,4 +142,5 @@ The sample dataset simulates a personal finance tracker for an individual in Ind
 
 ## Built by
 
-Prashant Singh — Data / Business Analyst
+Prashant Kumar
+📧 prashantwork0445@gmail.com
